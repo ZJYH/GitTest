@@ -7,4 +7,9 @@ public class User{
     private String nice;
     
     
+    
+    public String getName(){
+        return this.name;
+    }
+    
 }
