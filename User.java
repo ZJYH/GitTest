@@ -1,18 +1,23 @@
 public class User{
     
-    private String name;
+    
     private String age;
     private String good;
     private String nice;
     
     
     
-    public String getName(){
+    public String getNackName(){
         return this.name;
     }
     
 
 public String getAge£¨£©{
 }
+
+
+public String getGood(){
+        return this.good;
+    }
     
 }
