@@ -23,10 +23,13 @@ public class HelloService {
         hello nice , you can do it;
         log.ereor("nice"+asdasd);
         car.setCarNum(ProNum.getCarNum(car.getBrand()));
-        skadjffsasfasdf
         car.setBal(car.getCarNum()+1);
         if(car.getBal != null){
             car.setBal =100000000;
+        }
+
+        for(int i =1; i<10; i++){
+            Ssytem.out.println(i);
         }
         return car;
     }
