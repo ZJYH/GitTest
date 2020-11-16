@@ -19,7 +19,9 @@ public class HelloService {
         Car car = new Car();
         car.setBrand("naike");
         car.setBuyDate(new Date());
-        log.info("奥迪撒大苏打car:{}",car);
+        log.info("asd",car);
+        hello nice , you can do it;
+        log.ereor("nice"+asdasd);
         car.setCarNum(ProNum.getCarNum(car.getBrand()));
         skadjffsasfasdf
         car.setBal(car.getCarNum()+1);
