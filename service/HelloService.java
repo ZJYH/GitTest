@@ -19,7 +19,8 @@ public class HelloService {
         Car car = new Car();
         car.setBrand("naike");
         car.setBuyDate(new Date());
-        log.info("奥迪car:{}",car);
+        log.info("奥迪撒大苏打car:{}",car);
+        hell撒大苏打
         car.setCarNum(ProNum.getCarNum(car.getBrand()));
         car.setBal(car.getCarNum()+1);
         if(car.getBal != null){
