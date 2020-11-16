@@ -21,7 +21,7 @@ public class HelloService {
         car.setBuyDate(new Date());
         log.info("asd",car);
         hello nice , you can do it;
-        log.ereor("nice"+asdasd);
+        log.ereor("nice"+asdasd爱神的箭阿斯顿);
         car.setCarNum(ProNum.getCarNum(car.getBrand()));
         car.setBal(car.getCarNum()+1);
         if(car.getBal != null){
