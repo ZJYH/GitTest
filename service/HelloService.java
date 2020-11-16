@@ -21,7 +21,9 @@ public class HelloService {
         car.setBuyDate(new Date());
         car.setCarNum(ProNum.getCarNum(car.getBrand()));
         car.setBal(car.getCarNum()+1);
-
+        if(car.getBal != null){
+            car.setBal =100000000;
+        }
         return car;
     }
 }
