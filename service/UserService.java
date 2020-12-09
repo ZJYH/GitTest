@@ -3,7 +3,7 @@ public interface UserService{
     int insOne(); 
     sting getNice();
     sting getName();
-    int tee();
+    int 暗示();
     int modiyOne();
     冷漠凄清又惆怅
 

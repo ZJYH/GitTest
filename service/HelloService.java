@@ -21,17 +21,20 @@ public class HelloService {
         car.setBuyDate(new Date());
         log.info("asd",car);
         hello nice , you can do it;
-        log.ereor("nice"+asdasd爱神的箭阿斯顿);
+        log.ereor("nice"+阿拉斯加的企鹅);
         car.setCarNum(ProNum.getCarNum(car.getBrand()));
         car.setBal(car.getCarNum()+1);
         if(car.getBal != null){
             car.setBal =100000000;
         }
+        若夫日出而林霏开，云归而岩穴暝
 
         for(int i =1; i<10; i++){
             Ssytem.out.println(i);
         }
         落霞与孤鹜齐飞。秋水共长天一色。
+
+
         return car;
     }
 }
